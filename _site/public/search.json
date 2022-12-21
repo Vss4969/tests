@@ -1,0 +1,171 @@
+[
+  
+    {
+
+      "name"    : "Our Health and Medicine",
+      "title"    : "CH405",
+      "url"      : "/coursecatalog/CH405/",
+      "inst"   : "Prof. Nilkamal Mahanta",
+      "department"     : "Chemistry",
+      "description"     : "The study of the human mind and body, how these function, how they interact and utmost importance in ensuring human well-being.",
+      "coursename"      : "ch",
+      "coursecode"      : "400",
+      "courselevel"      : "ugpg"
+
+    } ,
+  
+    {
+
+      "name"    : "Introduction to Computer Programming",
+      "title"    : "CS102",
+      "url"      : "/coursecatalog/CS102/",
+      "inst"   : "Prof. Nikhil Hegde",
+      "department"     : "Computer Science",
+      "description"     : "Introduction to the basic computer porgramming.",
+      "coursename"      : "cs",
+      "coursecode"      : "100",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Data Structure and Algorithms",
+      "title"    : "CS201",
+      "url"      : "/coursecatalog/CS201/",
+      "inst"   : "Prof. Koteshwar Rao Kondepu",
+      "department"     : "Computer Science",
+      "description"     : "Introduction to data structures, data types, analysis of algorithms and their manipulation.",
+      "coursename"      : "cs",
+      "coursecode"      : "200",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Computer Architecture",
+      "title"    : "CS301",
+      "url"      : "/coursecatalog/CS301/",
+      "inst"   : "Prof. Rajshekar K",
+      "department"     : "Computer Science",
+      "description"     : "This course deals with the fundamentals of how a programmable computer functions.",
+      "coursename"      : "cs",
+      "coursecode"      : "300",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Software Development and Scientific Computing",
+      "title"    : "CS601",
+      "url"      : "/coursecatalog/CS601/",
+      "inst"   : "Prof. Nikhil Hegde",
+      "department"     : "Computer Science",
+      "description"     : "This course focuses on how the skills and tools are applied towards larger software development goals inthe context of dominant algorithmic patterns or motifs found in scientificcomputing.",
+      "coursename"      : "cs",
+      "coursecode"      : "600",
+      "courselevel"      : "ugpg"
+
+    } ,
+  
+    {
+
+      "name"    : "Network Theory",
+      "title"    : "EE205",
+      "url"      : "/coursecatalog/EE205/",
+      "inst"   : "Prof. Abhijit Kshirsagar",
+      "department"     : "Electrical Engineering",
+      "description"     : "Graphs of networks, current and voltage spaces of graphs and their representations, Multiport representation, Time domain analysis of R, L, M, C, controlled sources, Introduction to s-domain methods.",
+      "coursename"      : "ee",
+      "coursecode"      : "200",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Introduction to Probability",
+      "title"    : "EE221",
+      "url"      : "/coursecatalog/EE221/",
+      "inst"   : "Prof. Bharath B N",
+      "department"     : "Electrical Engineering",
+      "description"     : "Motivation for studying the course, revision of basic math required, connection betweenprobability and length on subsets of real line, probability-formal definition, events and sigma- algebra, independence of events, and conditional probability, sequence of events, and BorelCantell Lemma.",
+      "coursename"      : "ee",
+      "coursecode"      : "200",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Microprocessors and Microcontrollers",
+      "title"    : "EE323",
+      "url"      : "/coursecatalog/EE323/",
+      "inst"   : "Prof. Saroj Mondal",
+      "department"     : "Electrical Engineering",
+      "description"     : "This course deals with the fundamentals of microprocessors and microcontrollers which are used in almost all embedded electronic systems.",
+      "coursename"      : "ee",
+      "coursecode"      : "300",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Economics",
+      "title"    : "HS201",
+      "url"      : "/coursecatalog/HS201/",
+      "inst"   : "Prof. Gopal Parashari",
+      "department"     : "Humanities and Social Sciences",
+      "description"     : "International trade, foreign exchange and balance of payments, stabilization policies : Monetary, Fiscal and Exchange rate policies.",
+      "coursename"      : "hs",
+      "coursecode"      : "200",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Engineering Mechanics",
+      "title"    : "ME201",
+      "url"      : "/coursecatalog/ME201/",
+      "inst"   : "Prof. Samarth Raut",
+      "department"     : "Mechanical Engineering",
+      "description"     : "This is a fundamental and core course which is essential for appreciating the influence of forces and force systems on particles/rigid bodies for all mechanical engineering students. This basic engineering course forms the base on which other course like Mechanics of Solids and Theory of Machines.",
+      "coursename"      : "me",
+      "coursecode"      : "200",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Heat Transfer",
+      "title"    : "ME301",
+      "url"      : "/coursecatalog/ME301/",
+      "inst"   : "Prof. Keerthi M C",
+      "department"     : "Mechanical Engineering",
+      "description"     : "This is a fundamental and core course which is essential for appreciating the modes of heat transfer essential for functionality of the mechanical equipment.",
+      "coursename"      : "me",
+      "coursecode"      : "300",
+      "courselevel"      : "ug"
+
+    } ,
+  
+    {
+
+      "name"    : "Electrodynamics",
+      "title"    : "PH201",
+      "url"      : "/coursecatalog/PH201/",
+      "inst"   : "Prof. Kavita Devi",
+      "department"     : "Physics",
+      "description"     : "This is a core course for Engineering Physics Program. It deals with many aspects of electromagnetic properties, behavior of electromagnetic wave in space and materials. The formalism developed here could help in better understanding of several technologies, like, communication, antennas, GPS, etc.",
+      "coursename"      : "ph",
+      "coursecode"      : "200",
+      "courselevel"      : "ug"
+
+    } 
+  
+]
