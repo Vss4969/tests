@@ -45,12 +45,12 @@
 .dept{
     background-color: #0dcaf0;
     text-align: center;
-    padding: 5px 18px;
+    padding: 5px 30px 5px 18px;
     color: white;
     font-weight: 500;
     font-size: 14px;
-    border-radius: 10px;
     margin: 10px 0px 10px 10px;
+    clip-path: polygon(100% 0%, 90% 50%, 100% 100%, 0 99%, 0% 50%, 0 0);
 }
 .inst {
     padding: 5px 18px 5px 0px;
@@ -159,46 +159,56 @@
     user-select: none;
 }
 .pagin li{
-display: inline-block;
-margin: 5px;
-box-shadow: 0 5px 25px rgb(1 1 1 / 10%);
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 0 5px 25px rgb(1 1 1 / 10%);
 }
 .pagin li a{
-color: #fff;
-text-decoration: none;
-font-size: 1.2em;
-line-height: 45px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    line-height: 45px;
 }
 
 .previous-page, .next-page{
-background: #0dcaf0;
-width: 80px;
-border-radius: 45px;
-cursor: pointer;
-transition: 0.3s ease;
+    background: #0dcaf0;
+    width: 80px;
+    /* border-radius: 45px; */
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.previous-page{
+    clip-path: polygon(100% 0%, 85% 50%, 100% 100%, 15% 100%, 0% 50%, 15% 0%);
+    padding-right: 5px;
+}
+
+.next-page{
+    clip-path: polygon(85% 0%, 100% 50%, 85% 100%, 0% 100%, 15% 50%, 0% 0%);
+    padding-left: 5px;
 }
 
 .previous-page:hover{
-transform: translateX(-5px);
+    transform: translateX(-5px);
 }
 
 .next-page:hover{
-transform: translateX(5px);
+    transform: translateX(5px);
 }
 
 .current-page, .dots{
-background: #ccc;
-width: 45px;
-border-radius: 50%;
-cursor: pointer;
+    background: #ccc;
+    width: 45px;
+    border-radius: 50%;
+    cursor: pointer;
 }
 
 .active{
-background: #0dcaf0;
+    background: #0dcaf0;
 }
 
 .disable{
-background: #ccc;
+    background: #ccc;
 }
 
 
