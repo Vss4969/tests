@@ -17,7 +17,7 @@
     </title>
   
     
-    <link rel="canonical" href="/pages/search/">
+    <link rel="canonical" href="/pages/add/">
     
   
     <link rel="stylesheet" href="../../public/css/poole.css">
@@ -60,11 +60,11 @@
       
     
     
-          <a class="sidebar-nav-item active" href="/tests/pages/search/">Search</a>
+          <a class="sidebar-nav-item" href="/tests/pages/search/">Search</a>
       
     
     
-          <a class="sidebar-nav-item" href="/tests/pages/add/">Add</a>
+          <a class="sidebar-nav-item active" href="/tests/pages/add/">Add</a>
       
     
 
@@ -94,21 +94,12 @@
     </div>
 
     <div class="container content">
-        <div id="search-container" class="searchbar">
-    <h1 class="search-here">Search Here</h1>
-    <input type="text" class="sbar" id="search-input" placeholder="Search...">
-    <div id="results-container" class="reslist">
-        <!--Results-->
-    </div>
-</div>
-<script src='../../public/js/search-script.js'></script>
-<script>
-    SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '../../public/search.json'
-    })
-</script>
+        <form action="https://formspree.io/vidyasagar.singadi@gmail.com" method="post">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+    <!-- <button type="submit">Submit</button> -->
+</form>
 
     </div>
   </div>

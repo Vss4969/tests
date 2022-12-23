@@ -4,7 +4,7 @@
 
       "name"    : "Environmental Studies",
       "title"    : "CH301",
-      "url"      : "/coursecatalog/CH301/",
+      "url"      : "/tests/CH301/",
       "inst"   : "Prof. Narasamma Nipatlapalli",
       "department"     : "Chemistry",
       "description"     : "Natural Resources, Ecosystems, Biodiversity and its conservation, Air Pollution Introduction to understanding air quality management, Water Treatment Discussion of water quality constituents, Solid Waste Management, Sociology/Environmentalism Description, Philosophy Environmental ethics, Deep ecology, Practical ecology, Field work and project",
@@ -18,7 +18,7 @@
 
       "name"    : "Our Health and Medicine",
       "title"    : "CH405",
-      "url"      : "/coursecatalog/CH405/",
+      "url"      : "/tests/CH405/",
       "inst"   : "Prof. Nilkamal Mahanta",
       "department"     : "Chemistry",
       "description"     : "The study of the human mind and body, how these function, how they interact and utmost importance in ensuring human well-being.",
@@ -32,7 +32,7 @@
 
       "name"    : "Introduction to Computer Programming",
       "title"    : "CS102",
-      "url"      : "/coursecatalog/CS102/",
+      "url"      : "/tests/CS102/",
       "inst"   : "Prof. Nikhil Hegde",
       "department"     : "Computer Science",
       "description"     : "Introduction to the basic computer porgramming.",
@@ -46,7 +46,7 @@
 
       "name"    : "Data Structure and Algorithms",
       "title"    : "CS201",
-      "url"      : "/coursecatalog/CS201/",
+      "url"      : "/tests/CS201/",
       "inst"   : "Prof. Koteshwar Rao Kondepu",
       "department"     : "Computer Science",
       "description"     : "Introduction to data structures, data types, analysis of algorithms and their manipulation.",
@@ -60,7 +60,7 @@
 
       "name"    : "Design and Analysis of Algorithms",
       "title"    : "CS205",
-      "url"      : "/coursecatalog/CS205/",
+      "url"      : "/tests/CS205/",
       "inst"   : "Prof. Sandeep RB",
       "department"     : "Computer Science",
       "description"     : "Core Course for Computer Science undergraduate students.",
@@ -74,7 +74,7 @@
 
       "name"    : "Artificial Intelligence",
       "title"    : "CS209",
-      "url"      : "/coursecatalog/CS209/",
+      "url"      : "/tests/CS209/",
       "inst"   : "Prof. Kedar Khandeparkar",
       "department"     : "Computer Science",
       "description"     : "AI is taught traditionally as it is driving force behind  many concepts in computer science and it is also  precursor to advanced courses like machine learning.",
@@ -88,7 +88,7 @@
 
       "name"    : "Artificial Intelligence Lab",
       "title"    : "CS214",
-      "url"      : "/coursecatalog/CS214/",
+      "url"      : "/tests/CS214/",
       "inst"   : "Prof. Kedar Khandeparkar",
       "department"     : "Computer Science",
       "description"     : "AI is taught traditionally as it is driving force behind  many concepts in computer science and it is also  precursor to advanced courses like machine learning.",
@@ -102,7 +102,7 @@
 
       "name"    : "Computer Architecture",
       "title"    : "CS301",
-      "url"      : "/coursecatalog/CS301/",
+      "url"      : "/tests/CS301/",
       "inst"   : "Prof. Rajshekar K",
       "department"     : "Computer Science",
       "description"     : "This course deals with the fundamentals of how a programmable computer functions.",
@@ -116,7 +116,7 @@
 
       "name"    : "Operating Systems",
       "title"    : "CS304",
-      "url"      : "/coursecatalog/CS304/",
+      "url"      : "/tests/CS304/",
       "inst"   : "Prof. Gayathri A",
       "department"     : "Computer Science",
       "description"     : "Fundamental course in Computer Science and Engineering.",
@@ -130,7 +130,7 @@
 
       "name"    : "Operating Systems Lab",
       "title"    : "CS314",
-      "url"      : "/coursecatalog/CS314/",
+      "url"      : "/tests/CS314/",
       "inst"   : "Prof. Gayathri A",
       "department"     : "Computer Science",
       "description"     : "Fundamental course in Computer Science and Engineering.",
@@ -144,7 +144,7 @@
 
       "name"    : "Computer Networks Laboratory",
       "title"    : "CS315",
-      "url"      : "/coursecatalog/CS315/",
+      "url"      : "/tests/CS315/",
       "inst"   : "Prof. Tamal Das",
       "department"     : "Computer Science",
       "description"     : "Fundamental lab course on computer networks.",
@@ -158,7 +158,7 @@
 
       "name"    : "Compilers Lab",
       "title"    : "CS316",
-      "url"      : "/coursecatalog/CS316/",
+      "url"      : "/tests/CS316/",
       "inst"   : "Prof. Nikhil Hegde",
       "department"     : "Computer Science",
       "description"     : "The knowledge on compilers helps to understand how programs written in a highlevel language is converted to machine codes. This helps programmers to write better programs.",
@@ -172,7 +172,7 @@
 
       "name"    : "Compilers",
       "title"    : "CS323",
-      "url"      : "/coursecatalog/CS323/",
+      "url"      : "/tests/CS323/",
       "inst"   : "Prof. Nikhil Hegde",
       "department"     : "Computer Science",
       "description"     : "The knowledge on compilers helps to understand how programs written in a high- level language are converted to machine code. This helps programmers to write better programs.",
@@ -186,7 +186,7 @@
 
       "name"    : "Computer Networks",
       "title"    : "CS348",
-      "url"      : "/coursecatalog/CS348/",
+      "url"      : "/tests/CS348/",
       "inst"   : "Prof. Tamal Das",
       "department"     : "Computer Science",
       "description"     : "Fundamental course on computer networks.",
@@ -200,7 +200,7 @@
 
       "name"    : "Software Development and Scientific Computing",
       "title"    : "CS601",
-      "url"      : "/coursecatalog/CS601/",
+      "url"      : "/tests/CS601/",
       "inst"   : "Prof. Nikhil Hegde",
       "department"     : "Computer Science",
       "description"     : "This course focuses on how the skills and tools are applied towards larger software development goals inthe context of dominant algorithmic patterns or motifs found in scientificcomputing.",
@@ -214,7 +214,7 @@
 
       "name"    : "Runtime Verification",
       "title"    : "CS627",
-      "url"      : "/coursecatalog/CS627/",
+      "url"      : "/tests/CS627/",
       "inst"   : "Prof. Rajshekar K.",
       "department"     : "Computer Science",
       "description"     : "The world we live in is increasingly automated. However, systems are prone to misbehavior. Increasing complexity of systems and time-to-market pressures result in design bugs. Manufacturing at aggressively small technology nodes leads to defects and greater rate of wearing. Software and Hardware Trojans are increasingly being employed by malicious players to attack systems. Runtime verification is a young, promising class of techniques aimed at countering all of the above. This course will serve to detail the various capabilities and limitations of this class of techniques.",
@@ -228,7 +228,7 @@
 
       "name"    : "Network Theory",
       "title"    : "EE205",
-      "url"      : "/coursecatalog/EE205/",
+      "url"      : "/tests/EE205/",
       "inst"   : "Prof. Abhijit Kshirsagar",
       "department"     : "Electrical Engineering",
       "description"     : "Graphs of networks, current and voltage spaces of graphs and their representations, Multiport representation, Time domain analysis of R, L, M, C, controlled sources, Introduction to s-domain methods.",
@@ -242,7 +242,7 @@
 
       "name"    : "Introduction to Probability",
       "title"    : "EE221",
-      "url"      : "/coursecatalog/EE221/",
+      "url"      : "/tests/EE221/",
       "inst"   : "Prof. Bharath B N",
       "department"     : "Electrical Engineering",
       "description"     : "Motivation for studying the course, revision of basic math required, connection betweenprobability and length on subsets of real line, probability-formal definition, events and sigma- algebra, independence of events, and conditional probability, sequence of events, and BorelCantell Lemma.",
@@ -256,7 +256,7 @@
 
       "name"    : "Electronic Design Laboratory",
       "title"    : "EE314",
-      "url"      : "/coursecatalog/EE314/",
+      "url"      : "/tests/EE314/",
       "inst"   : "Prof. Saroj Mondal",
       "department"     : "Electrical Engineering",
       "description"     : "This projects course will train students in Engineering system and product design.",
@@ -270,7 +270,7 @@
 
       "name"    : "Microprocessors and Microcontrollers",
       "title"    : "EE323",
-      "url"      : "/coursecatalog/EE323/",
+      "url"      : "/tests/EE323/",
       "inst"   : "Prof. Saroj Mondal",
       "department"     : "Electrical Engineering",
       "description"     : "This course deals with the fundamentals of microprocessors and microcontrollers which are used in almost all embedded electronic systems.",
@@ -284,7 +284,7 @@
 
       "name"    : "Mathematics for Data Science",
       "title"    : "EE440",
-      "url"      : "/coursecatalog/EE440/",
+      "url"      : "/tests/EE440/",
       "inst"   : "Prof. Prabhuchandran K. J.",
       "department"     : "Electrical Engineering",
       "description"     : "Solving optimization problem is a key ingredient of any data science/Machine Learning (ML) task. It is important to understand how to state problem of practical interests in the language of optimization, and solve it. This course aims to achieve this goal by providing theory and algorithms to solve optimization problems that arise in typical ML problems.",
@@ -298,7 +298,7 @@
 
       "name"    : "Economics",
       "title"    : "HS201",
-      "url"      : "/coursecatalog/HS201/",
+      "url"      : "/tests/HS201/",
       "inst"   : "Prof. Gopal Parashari",
       "department"     : "Humanities and Social Sciences",
       "description"     : "International trade, foreign exchange and balance of payments, stabilization policies : Monetary, Fiscal and Exchange rate policies.",
@@ -312,7 +312,7 @@
 
       "name"    : "Technological Entrepreneurship",
       "title"    : "HS402",
-      "url"      : "/coursecatalog/HS402/",
+      "url"      : "/tests/HS402/",
       "inst"   : "Prof. R. R. Hirwani",
       "department"     : "Humanities and Social Sciences",
       "description"     : "The Government of India has rolled out Start-up India initiative with several programs with the objective of supporting entrepreneurs, building a robust start-up ecosystem and transforming India into a country of job creators instead of job seekers. It is therefore felt necessary to enable every engineering student to have the opportunity to integrate entrepreneurial and business studies into their technical degreeprogram and prepare them to see opportunities to create and grow innovative new technology ventures.",
@@ -326,7 +326,7 @@
 
       "name"    : "Applied Ethics",
       "title"    : "HS404",
-      "url"      : "/coursecatalog/HS404/",
+      "url"      : "/tests/HS404/",
       "inst"   : "Prof. Jolly Thomas",
       "department"     : "Humanities and Social Sciences",
       "description"     : "The main objective is to look at some of the actual ethical issues and see how one can make philosophical arguments regarding such issues. Such philosophical arguments would be stronger or would have more clarity if one can distinguish between normative ethical concerns from applied ethical concerns.",
@@ -340,7 +340,7 @@
 
       "name"    : "Introduction to Game Theory",
       "title"    : "HS406",
-      "url"      : "/coursecatalog/HS406/",
+      "url"      : "/tests/HS406/",
       "inst"   : "Gopal Sharan Parashari",
       "department"     : "Humanities and Social Sciences",
       "description"     : "This course provides basic to intermediate level of essential concepts in applied game theory. Game theory issued to model strategic interactions and finds its use in computer science, economics, politics, electrical and electronics engineering, biology etc.",
@@ -354,7 +354,7 @@
 
       "name"    : "Introduction to Literature",
       "title"    : "HS420",
-      "url"      : "/coursecatalog/HS420/",
+      "url"      : "/tests/HS420/",
       "inst"   : "Prof. Ridhima Tewari",
       "department"     : "Humanities and Social Sciences",
       "description"     : "The course is aimed at introducing students to literature- its rea appreciation, and its relation to contemporary world, knowledge systems and contexts.",
@@ -368,7 +368,7 @@
 
       "name"    : "International Finance",
       "title"    : "HS429",
-      "url"      : "/coursecatalog/HS429/",
+      "url"      : "/tests/HS429/",
       "inst"   : "Prof. Balaga Mohana Rao",
       "department"     : "Humanities and Social Sciences",
       "description"     : "The aim of this course is to provide students with a strong foundation in the principles of international finance which will help them to understand the theories and associated policies adopted in various countries. The course will enable students to understand the impact of the globalization on income, employment, and social standards in the current international scenario.",
@@ -382,7 +382,7 @@
 
       "name"    : "Engineering Mechanics",
       "title"    : "ME201",
-      "url"      : "/coursecatalog/ME201/",
+      "url"      : "/tests/ME201/",
       "inst"   : "Prof. Samarth Raut",
       "department"     : "Mechanical Engineering",
       "description"     : "This is a fundamental and core course which is essential for appreciating the influence of forces and force systems on particles/rigid bodies for all mechanical engineering students. This basic engineering course forms the base on which other course like Mechanics of Solids and Theory of Machines.",
@@ -396,7 +396,7 @@
 
       "name"    : "Heat Transfer",
       "title"    : "ME301",
-      "url"      : "/coursecatalog/ME301/",
+      "url"      : "/tests/ME301/",
       "inst"   : "Prof. Keerthi M C",
       "department"     : "Mechanical Engineering",
       "description"     : "This is a fundamental and core course which is essential for appreciating the modes of heat transfer essential for functionality of the mechanical equipment.",
@@ -410,7 +410,7 @@
 
       "name"    : "Applied Thermodynamics",
       "title"    : "ME302",
-      "url"      : "/coursecatalog/ME302/",
+      "url"      : "/tests/ME302/",
       "inst"   : "Prof. Dhiraj V Patil, Prof. Meenatchidevi",
       "department"     : "Mechanical Engineering",
       "description"     : "This is a fundamental course which is essential for appreciating the engineering drawings and compulsory for all B. Tech. majors.",
@@ -424,7 +424,7 @@
 
       "name"    : "Kinematics and Dynamics of Machinery Laboratory",
       "title"    : "ME313",
-      "url"      : "/coursecatalog/ME313/",
+      "url"      : "/tests/ME313/",
       "inst"   : "Prof. Tejas P. Gotkhindi, Prof. Samarth Raut",
       "department"     : "Mechanical Engineering",
       "description"     : "To reinforce and apply the concepts learnt in Kinematics and Dynamics of Machinery",
@@ -438,7 +438,7 @@
 
       "name"    : "Heat Transfer Laboratory",
       "title"    : "ME314",
-      "url"      : "/coursecatalog/ME314/",
+      "url"      : "/tests/ME314/",
       "inst"   : "Prof. Keerthi M.C, Prof. Sudheer Siddapureddy",
       "department"     : "Mechanical Engineering",
       "description"     : "To reinforce and apply the concepts learnt in Kinematics and Dynamics of Machinery",
@@ -452,7 +452,7 @@
 
       "name"    : "Manufacturing Processes Laboratory",
       "title"    : "ME411",
-      "url"      : "/coursecatalog/ME411/",
+      "url"      : "/tests/ME411/",
       "inst"   : "Prof. Satyapriya Gupta, Prof. Somashekara M A",
       "department"     : "Mechanical Engineering",
       "description"     : "The main objective is to look at some of the actual ethical issues and see how one can make philosophical arguments regarding such issues. Such philosophical arguments would be stronger or would have more clarity if one can distinguish between normative ethical concerns from applied ethical concerns.",
@@ -466,7 +466,7 @@
 
       "name"    : "Electrodynamics",
       "title"    : "PH201",
-      "url"      : "/coursecatalog/PH201/",
+      "url"      : "/tests/PH201/",
       "inst"   : "Prof. Kavita Devi",
       "department"     : "Physics",
       "description"     : "This is a core course for Engineering Physics Program. It deals with many aspects of electromagnetic properties, behavior of electromagnetic wave in space and materials. The formalism developed here could help in better understanding of several technologies, like, communication, antennas, GPS, etc.",
