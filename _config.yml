@@ -27,6 +27,8 @@ navigation_header:
   url: /
 - title: Search
   url: /pages/search/
+- title: Add
+  url: /pages/add/
 
 # Course Collections
 collections:
